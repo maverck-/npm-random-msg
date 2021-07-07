@@ -14,7 +14,15 @@
   "author": "Maverick Gayoso <maverick.gayoso@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverck-/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maverck-/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/maverck-/npm-random-msg#readme"
 }
